@@ -26,6 +26,14 @@ sudo docker run --rm --name ${CONTAINER_NAME} -p ${PORT}:8501 -v ${YOUR_MODEL_PA
 
 
 
+
+
+
+------------------
+
+#  GPU
+
+
 ```
 apt update &&  apt-get install build-essential -y
 ```
