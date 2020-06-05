@@ -1,1 +1,5 @@
 # Google-AutoML
+
+
+# Edge端容器部署教程    
+https://cloud.google.com/vision/automl/docs/containers-gcs-tutorial   
