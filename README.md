@@ -73,7 +73,7 @@ curl -X POST -d  @/tmp/request.json http://localhost:8501/v1/models/default:pred
 
 ![req-res](AutoML-QuickStart/_image/req-res.png)
 
-!(google)[https://photos.google.com/share/AF1QipP-6n9uqoZc1cwHAI9F_BAsaROj597qx3OF5zKtgjelwAIrx_i2VUcGyVKG2Ua3bA?key=eFdfcjVCdzAzbmRRRUZiSDBfZXo1eEVwNWZiSTBB]
+![google](https://photos.google.com/share/AF1QipP-6n9uqoZc1cwHAI9F_BAsaROj597qx3OF5zKtgjelwAIrx_i2VUcGyVKG2Ua3bA?key=eFdfcjVCdzAzbmRRRUZiSDBfZXo1eEVwNWZiSTBB)
 
 
 ------------------
