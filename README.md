@@ -73,7 +73,7 @@ curl -X POST -d  @/tmp/request.json http://localhost:8501/v1/models/default:pred
 
 ![req-res](AutoML-QuickStart/_image/req-res.png)
 
-
+!(google)[https://photos.app.goo.gl/U8DJSdJ9Kdb6acrS7]
 
 
 ------------------
